@@ -1,2 +1,2 @@
-# architectural-pattern-event-driven
-Event-Driven Architecture
+# Event-Driven Architecture
+
